@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 10640530,
+    "ip": "13.81.170.7",
+    "port": 30223,
+    "remoteSubscriptionId": "80fe4522480f4fc2a816cada042aebe8",
+    "ownerUUID": "2535472134577214",
+    "name": "§u§lAstral §dPractice",
+    "motd": "None",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379874147723614,
+    "member": true,
+    "invite": {
+      "code": "PeWazUXcAkU",
+      "ownerxuid": "2535472134577214",
+      "codeurl": "https://realms.gg/PeWazUXcAkU"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "ast prac",
+      "playersonline": 9,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.43",
+      "protocol": "748"
+    },
+    "owner": {
+      "xuid": "2535472134577214",
+      "displayName": "my1bum2crack",
+      "gamertag": "my1bum2crack",
+      "gamerScore": "8800",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 2d ago: Minecraft"
+    },
+    "club": {
+      "id": "3379874147723614",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 4035,
+      "followersCount": 4035,
+      "reportCount": 17,
+      "reportedItemsCount": 16
+    }
+  },
+  {
+    "id": 19342398,
+    "ip": null,
+    "port": null,
+    "remoteSubscriptionId": "2902d41239254c3dbca429618ad5f6c2",
+    "ownerUUID": "2535469209789697",
+    "name": "§d§l•Spectral CPvP EU•",
+    "motd": "BEST CRYSTAL PVP SERVER EU!!!",
+    "defaultPermission": "MEMBER",
+    "state": "CLOSED",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379868682173852,
+    "member": false,
+    "invite": {
+      "code": "UrreGM3tgrs",
+      "ownerxuid": "2535469209789697",
+      "codeurl": "https://realms.gg/UrreGM3tgrs"
+    },
+    "server": {
+      "gamemode": "unknown"
+    },
+    "owner": {
+      "xuid": "2535469209789697",
+      "displayName": "DurableNickel41",
+      "gamertag": "DurableNickel41",
+      "gamerScore": "6325",
+      "presenceState": "Online",
+      "presenceText": "Minecraft"
+    },
+    "club": {
+      "id": "3379868682173852",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "1073d6",
+        "secondaryColor": "133157",
+        "tertiaryColor": "134e8a"
+      },
+      "membersCount": 925,
+      "followersCount": 924,
+      "reportCount": 30,
+      "reportedItemsCount": 29
+    }
+  },
+  {
+    "id": 21859484,
+    "ip": "4.201.168.73",
+    "port": 30232,
+    "remoteSubscriptionId": "a2002d0ad38345439947be908d50e05d",
+    "ownerUUID": "2535463551230220",
+    "name": "real city 12",
+    "motd": "ON",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379879280181017,
+    "member": true,
+    "invite": {
+      "code": "fp2jMatqpD7Nj3M",
+      "ownerxuid": "2535463551230220",
+      "codeurl": "https://realms.gg/fp2jMatqpD7Nj3M"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Real City 12",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.43",
+      "protocol": "748"
+    },
+    "owner": {
+      "xuid": "2535463551230220",
+      "displayName": "lucasMCPE101",
+      "gamertag": "lucasMCPE101",
+      "gamerScore": "3760",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 2d ago: Minecraft"
+    },
+    "club": {
+      "id": "3379879280181017",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 518,
+      "followersCount": 518,
+      "reportCount": 2,
+      "reportedItemsCount": 2
+    }
+  },
+  {
+    "id": 21660414,
+    "ip": "172.173.231.238",
+    "port": 30220,
+    "remoteSubscriptionId": "2b847c4c004440d390a9db3195f54fc3",
+    "ownerUUID": "2535421442062525",
+    "name": "Xizz Smp",
+    "motd": "None",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379890103479668,
+    "member": false,
+    "invite": {
+      "code": "w9v92nDdo77KSzY",
+      "ownerxuid": "2535421442062525",
+      "codeurl": "https://realms.gg/w9v92nDdo77KSzY"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "1 Xizz SMP Reborn",
+      "playersonline": 6,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.43",
+      "protocol": "748"
+    },
+    "owner": {
+      "xuid": "2535421442062525",
+      "displayName": "xizz boxed u",
+      "gamertag": "xizz boxed u",
+      "gamerScore": "1880",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 9h ago: Minecraft"
+    },
+    "club": {
+      "id": "3379890103479668",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 1292,
+      "followersCount": 1292,
+      "reportCount": 2,
+      "reportedItemsCount": 2
+    }
+  },
+  {
+    "id": 18629912,
+    "ip": "40.118.100.167",
+    "port": 30215,
+    "remoteSubscriptionId": "1cfe1a94b1f741c78ee639b8173dd963",
+    "ownerUUID": "2535446865563793",
+    "name": "Axo Realm Season 4",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379839832306237,
+    "member": false,
+    "invite": {
+      "code": "MGtozzsMxxY",
+      "ownerxuid": "2535446865563793",
+      "codeurl": "https://realms.gg/MGtozzsMxxY"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Axo realm S4",
+      "playersonline": 2,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.44",
+      "protocol": "748"
+    },
+    "owner": {
+      "xuid": "2535446865563793",
+      "displayName": "WeirdestStar65",
+      "gamertag": "WeirdestStar65",
+      "gamerScore": "5646",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 1d ago: Minecraft"
+    },
+    "club": {
+      "id": "3379839832306237",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 1156,
+      "followersCount": 1156,
+      "reportCount": 16,
+      "reportedItemsCount": 16
+    }
+  },
+  {
+    "id": 23196305,
+    "ip": "20.36.171.250",
+    "port": 30007,
+    "remoteSubscriptionId": "02af0f359d254868ab4b2e1cdb0d3816",
+    "ownerUUID": "2535414971900123",
+    "name": "Chaos SMP",
+    "motd": "Join up :D",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379859736963622,
+    "member": false,
+    "invite": {
+      "code": "FMtfa9LY2E5YAXM",
+      "ownerxuid": "2535414971900123",
+      "codeurl": "https://realms.gg/FMtfa9LY2E5YAXM"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "world",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535414971900123",
+      "displayName": "LucidSpoon7449",
+      "gamertag": "LucidSpoon7449",
+      "gamerScore": "10000",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 2d ago: "
+    },
+    "club": {
+      "id": "3379859736963622",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 15,
+      "followersCount": 17,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 23100949,
+    "ip": "52.169.197.46",
+    "port": 30027,
+    "remoteSubscriptionId": "e442795f49494c198ecb8a7285fe9543",
+    "ownerUUID": "2535463181426357",
+    "name": "chozzacupcake",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835008859613,
+    "member": false,
+    "invite": {
+      "code": "-xVLRQVt3fmZ734",
+      "ownerxuid": "2535463181426357",
+      "codeurl": "https://realms.gg/-xVLRQVt3fmZ734"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "world",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535463181426357",
+      "displayName": "megagarry7636",
+      "gamertag": "megagarry7636",
+      "gamerScore": "3898",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 5h ago: Minecraft"
+    },
+    "club": {
+      "id": "3379835008859613",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 125,
+      "followersCount": 125,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 23100949,
+    "ip": "52.169.197.46",
+    "port": 30027,
+    "remoteSubscriptionId": "e442795f49494c198ecb8a7285fe9543",
+    "ownerUUID": "2535463181426357",
+    "name": "chozzacupcake",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835008859613,
+    "member": true,
+    "invite": {
+      "code": "-xVLRQVt3fmZ734",
+      "ownerxuid": "2535463181426357",
+      "codeurl": "https://realms.gg/-xVLRQVt3fmZ734"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "world",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535463181426357",
+      "displayName": "megagarry7636",
+      "gamertag": "megagarry7636",
+      "gamerScore": "3898",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 5h ago: Minecraft"
+    },
+    "club": {
+      "id": "3379835008859613",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 125,
+      "followersCount": 126,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 12731221,
+    "ip": "52.167.122.91",
+    "port": 30031,
+    "remoteSubscriptionId": "d8938976c43c49d2a2ad55e017d27f53",
+    "ownerUUID": "2535425100583511",
+    "name": "Infected Gen S2 Winter",
+    "motd": "The high quality 1.21 \"The Hive\" inspired realm you will surely enjoy!",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379890274177242,
+    "member": false,
+    "invite": {
+      "code": "ymBi-nBkTrU",
+      "ownerxuid": "2535425100583511",
+      "codeurl": "https://realms.gg/ymBi-nBkTrU"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Infected Gen - Copy",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535425100583511",
+      "displayName": "kaexbros",
+      "gamertag": "kaexbros",
+      "gamerScore": "6870",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 18h ago: Home"
+    },
+    "club": {
+      "id": "3379890274177242",
+      "tags": [
+        "micoptional",
+        "allcontentok",
+        "trashtalkingok",
+        "competitive",
+        "newplayerswelcome",
+        "everyoneiswelcome",
+        "allages"
+      ],
+      "preferredColor": {
+        "primaryColor": "107c10",
+        "secondaryColor": "102b14",
+        "tertiaryColor": "155715"
+      },
+      "membersCount": 1426,
+      "followersCount": 1426,
+      "reportCount": 10,
+      "reportedItemsCount": 10
+    }
+  },
+  {
+    "id": 21389134,
+    "ip": "191.235.236.228",
+    "port": 30012,
+    "remoteSubscriptionId": "f0999212badd463f81e2de273a5c3744",
+    "ownerUUID": "2535473236525890",
+    "name": "Semi-anarquia do Bunny",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379868464187729,
+    "member": true,
+    "invite": {
+      "code": "4bhnKmHr5EU",
+      "ownerxuid": "2535473236525890",
+      "codeurl": "https://realms.gg/4bhnKmHr5EU"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Anarquia do Bunny",
+      "playersonline": 1,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535473236525890",
+      "displayName": "yuripetra1",
+      "gamertag": "yuripetra1",
+      "gamerScore": "430",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 1d ago: Minecraft"
+    },
+    "club": {
+      "id": "3379868464187729",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 588,
+      "followersCount": 588,
+      "reportCount": 10,
+      "reportedItemsCount": 10
+    }
+  },
+  {
+    "id": 18519930,
+    "ip": "52.169.155.189",
+    "port": 30239,
+    "remoteSubscriptionId": "a26ba59091914457a2641b417c84faf4",
+    "ownerUUID": "2535413131720389",
+    "name": "§¤§oKM SkyGen §r§lCode :§r tQhQiYmE5CA",
+    "motd": "We are back!",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379858664236760,
+    "member": true,
+    "invite": {
+      "code": "tQhQiYmE5CA",
+      "ownerxuid": "2535413131720389",
+      "codeurl": "https://realms.gg/tQhQiYmE5CA"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "§¤§oKM SkyGen §r§lCode :§r tQhQiYmE5CA 12/23/24 07:40:08 - Copy",
+      "playersonline": 2,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535413131720389",
+      "displayName": "StarryQuest8",
+      "gamertag": "StarryQuest8",
+      "gamerScore": "70",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 1h ago: Minecraft"
+    },
+    "club": {
+      "id": "3379858664236760",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 1513,
+      "followersCount": 1513,
+      "reportCount": 2,
+      "reportedItemsCount": 2
+    }
+  },
+  {
+    "id": 23198443,
+    "ip": "52.138.217.204",
+    "port": 30209,
+    "remoteSubscriptionId": "e8bd53df57ae4ca8b854bd5982366f8a",
+    "ownerUUID": "2535459404153907",
+    "name": "§l§dSolar §5Practice",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379837939179555,
+    "member": true,
+    "invite": {
+      "code": "yDPR7bZ7fkso2zM",
+      "ownerxuid": "2535459404153907",
+      "codeurl": "https://realms.gg/yDPR7bZ7fkso2zM"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Copy of world",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535459404153907",
+      "displayName": "dropped fr",
+      "gamertag": "dropped fr",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 17d ago: Online"
+    },
+    "club": {
+      "id": "3379837939179555",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 19,
+      "followersCount": 19,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 16383875,
+    "ip": "13.92.240.124",
+    "port": 30224,
+    "remoteSubscriptionId": "77d528e3c58342be910170dd2e4e66bb",
+    "ownerUUID": "2535446768800420",
+    "name": "\"Normal Survival\"",
+    "motd": "no hacking",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379881341745017,
+    "member": false,
+    "invite": {
+      "code": "QUHkbHekoha",
+      "ownerxuid": "2535446768800420",
+      "codeurl": "https://realms.gg/QUHkbHekoha"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "normal survival - Copy",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535446768800420",
+      "displayName": "Exactdrake71914",
+      "gamertag": "Exactdrake71914",
+      "gamerScore": "5655",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 2d ago: Online"
+    },
+    "club": {
+      "id": "3379881341745017",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 33,
+      "followersCount": 32,
+      "reportCount": 43,
+      "reportedItemsCount": 41
+    }
+  },
+  {
+    "id": 21628273,
+    "ip": "52.178.166.88",
+    "port": 30232,
+    "remoteSubscriptionId": "cb7e738974cb4db4a0cc32d525f69458",
+    "ownerUUID": "2535460178064471",
+    "name": "Ender skygen (BETA)🎶",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379888312892641,
+    "member": false,
+    "invite": {
+      "code": "ReYXEgMtgnxGPjA",
+      "ownerxuid": "2535460178064471",
+      "codeurl": "https://realms.gg/ReYXEgMtgnxGPjA"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "world",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535460178064471",
+      "displayName": "Shaunboi931",
+      "gamertag": "Shaunboi931",
+      "gamerScore": "7875",
+      "presenceState": "Offline",
+      "presenceText": "Offline"
+    },
+    "club": {
+      "id": "3379888312892641",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 30,
+      "followersCount": 31,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 23459354,
+    "ip": "104.209.44.175",
+    "port": 30217,
+    "remoteSubscriptionId": "aa3f18d5a4a24061be0e4ba64deaf79b",
+    "ownerUUID": "2535425314704289",
+    "name": "Spoder Skygen",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379898149074100,
+    "member": false,
+    "invite": {
+      "code": "FAYLUqVgp5WAGsM",
+      "ownerxuid": "2535425314704289",
+      "codeurl": "https://realms.gg/FAYLUqVgp5WAGsM"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "§3§l§•Spoder §fSkygen §bS3 2",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535425314704289",
+      "displayName": "Josiah Vibez",
+      "gamertag": "Josiah Vibez",
+      "gamerScore": "20100",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 37m ago: Home"
+    },
+    "club": {
+      "id": "3379898149074100",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 57,
+      "followersCount": 59,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 23459354,
+    "ip": "13.64.8.187",
+    "port": 30219,
+    "remoteSubscriptionId": "aa3f18d5a4a24061be0e4ba64deaf79b",
+    "ownerUUID": "2535425314704289",
+    "name": "Spoder Skygen",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379898149074100,
+    "member": true,
+    "invite": {
+      "code": "FAYLUqVgp5WAGsM",
+      "ownerxuid": "2535425314704289",
+      "codeurl": "https://realms.gg/FAYLUqVgp5WAGsM"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "§3§l§•Spoder §fSkygen §bS3 2",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535425314704289",
+      "displayName": "Josiah Vibez",
+      "gamertag": "Josiah Vibez",
+      "gamerScore": "20100",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 3h ago: Home"
+    },
+    "club": {
+      "id": "3379898149074100",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 63,
+      "followersCount": 63,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 23459354,
+    "ip": "13.88.103.147",
+    "port": 30229,
+    "remoteSubscriptionId": "aa3f18d5a4a24061be0e4ba64deaf79b",
+    "ownerUUID": "2535425314704289",
+    "name": "Spoder Skygen",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379898149074100,
+    "member": true,
+    "invite": {
+      "code": "FAYLUqVgp5WAGsM",
+      "ownerxuid": "2535425314704289",
+      "codeurl": "https://realms.gg/FAYLUqVgp5WAGsM"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "§3§l§•Spoder §fSkygen §bS3 2",
+      "playersonline": 7,
+      "maxplayers": 10,
+      "gamemode": "Adventure",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535425314704289",
+      "displayName": "Josiah Vibez",
+      "gamertag": "Josiah Vibez",
+      "gamerScore": "20100",
+      "presenceState": "Online",
+      "presenceText": "Home"
+    },
+    "club": {
+      "id": "3379898149074100",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 65,
+      "followersCount": 67,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  },
+  {
+    "id": 22841981,
+    "ip": "52.226.74.192",
+    "port": 30008,
+    "remoteSubscriptionId": "161fb66693bb4225b2eab696b2fa521d",
+    "ownerUUID": "2535461370551643",
+    "name": "Sage SMP S3",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379893192909970,
+    "member": false,
+    "invite": {
+      "code": "YaeE8BD4v9-WFt8",
+      "ownerxuid": "2535461370551643",
+      "codeurl": "https://realms.gg/YaeE8BD4v9-WFt8"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Sage SMP  - Copy",
+      "playersonline": 5,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535461370551643",
+      "displayName": "Sage225243",
+      "gamertag": "Sage225243",
+      "gamerScore": "16005",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 233d ago: Xbox App"
+    },
+    "club": {
+      "id": "3379893192909970",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 60,
+      "followersCount": 61,
+      "reportCount": 2,
+      "reportedItemsCount": 2
+    }
+  },
+  {
+    "id": 17422690,
+    "ip": "172.191.32.149",
+    "port": 30209,
+    "remoteSubscriptionId": "a0018c0465164feeaba4ddfa36334d66",
+    "ownerUUID": "2535459630465310",
+    "name": "Dark PvP",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379861739071612,
+    "member": false,
+    "invite": {
+      "code": "8hyJpPR4yucY5m4",
+      "ownerxuid": "2535459630465310",
+      "codeurl": "https://realms.gg/8hyJpPR4yucY5m4"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "My World",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535459630465310",
+      "displayName": "TrulySn1pez",
+      "gamertag": "TrulySn1pez",
+      "gamerScore": "21735",
+      "presenceState": "Online",
+      "presenceText": "Minecraft"
+    },
+    "club": {
+      "id": "3379861739071612",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 853,
+      "followersCount": 839,
+      "reportCount": 6,
+      "reportedItemsCount": 5
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "52.190.59.101",
+    "port": 30229,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": false,
+    "invite": {
+      "code": "tEvG3UvsTbc",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/tEvG3UvsTbc"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 9,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 7h ago: Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 493,
+      "followersCount": 492,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "52.186.82.167",
+    "port": 30033,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": true,
+    "invite": {
+      "code": "tEVG3UvsTbc",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/tEVG3UvsTbc"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 2,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 23m ago: Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 499,
+      "followersCount": 497,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 23116178,
+    "ip": "20.191.239.173",
+    "port": 30046,
+    "remoteSubscriptionId": "5fb3f0e777ce4fa1bef99f32f569406e",
+    "ownerUUID": "2535438986648883",
+    "name": "-=- NETHERITE PVP S2 -=-",
+    "motd": "FUN TO PLAY, ACTIVE COMMUNITY, ACTIVE MEMBERS, MAKE PLAY",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379865117918073,
+    "member": false,
+    "invite": {
+      "code": "DPoxYSDanNdxG6S",
+      "ownerxuid": "2535438986648883",
+      "codeurl": "https://realms.gg/DPoxYSDanNdxG6S"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "-=- NETHERITE PVP S2 -=-",
+      "playersonline": 7,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535438986648883",
+      "displayName": "tookhertotheOfr",
+      "gamertag": "tookhertotheOfr",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Offline"
+    },
+    "club": {
+      "id": "3379865117918073",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 598,
+      "followersCount": 598,
+      "reportCount": 4,
+      "reportedItemsCount": 4
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "52.179.176.208",
+    "port": 30205,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": true,
+    "invite": {
+      "code": "gVs8Acgoyb2tM7c",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/gVs8Acgoyb2tM7c"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 3,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Online",
+      "presenceText": "Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 496,
+      "followersCount": 493,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 20189304,
+    "ip": "52.169.95.89",
+    "port": 30222,
+    "remoteSubscriptionId": "b586ce3d563f45869c1e1af553444240",
+    "ownerUUID": "2535473007378702",
+    "name": "Robben-SMP",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379867763513335,
+    "member": false,
+    "invite": {
+      "code": "hsGrfPiiwHRp6pQ",
+      "ownerxuid": "2535473007378702",
+      "codeurl": "https://realms.gg/hsGrfPiiwHRp6pQ"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Robben-SMP 01/01/25 17:17:30 – Kopie",
+      "playersonline": 8,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535473007378702",
+      "displayName": "StyledGuide1643",
+      "gamertag": "StyledGuide1643",
+      "gamerScore": "665",
+      "presenceState": "Online",
+      "presenceText": "Minecraft"
+    },
+    "club": {
+      "id": "3379867763513335",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 300,
+      "followersCount": 296,
+      "reportCount": 6,
+      "reportedItemsCount": 6
+    }
+  },
+  {
+    "id": 17422690,
+    "ip": "172.191.32.149",
+    "port": 30209,
+    "remoteSubscriptionId": "a0018c0465164feeaba4ddfa36334d66",
+    "ownerUUID": "2535459630465310",
+    "name": "Dark PvP",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379861739071612,
+    "member": true,
+    "invite": {
+      "code": "8hyJpPR4yucY5m4",
+      "ownerxuid": "2535459630465310",
+      "codeurl": "https://realms.gg/8hyJpPR4yucY5m4"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "My World",
+      "playersonline": 4,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535459630465310",
+      "displayName": "TrulySn1pez",
+      "gamertag": "TrulySn1pez",
+      "gamerScore": "21735",
+      "presenceState": "Online",
+      "presenceText": "Minecraft"
+    },
+    "club": {
+      "id": "3379861739071612",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 847,
+      "followersCount": 847,
+      "reportCount": 6,
+      "reportedItemsCount": 5
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "13.92.175.169",
+    "port": 30023,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": true,
+    "invite": {
+      "code": "gVS8Acgoyb2tM7c",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/gVS8Acgoyb2tM7c"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 8,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 20h ago: Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 495,
+      "followersCount": 491,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "13.92.175.169",
+    "port": 30023,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": true,
+    "invite": {
+      "code": "gVS8Acgoyb2tM7c",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/gVS8Acgoyb2tM7c"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 8,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 20h ago: Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 495,
+      "followersCount": 491,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 19931064,
+    "ip": "13.92.175.169",
+    "port": 30023,
+    "remoteSubscriptionId": "5417c1878fda4eb3b802e9c030b9508f",
+    "ownerUUID": "2535443314810725",
+    "name": "Rise to power season 7",
+    "motd": "",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379835518056398,
+    "member": true,
+    "invite": {
+      "code": "gVS8Acgoyb2tM7c",
+      "ownerxuid": "2535443314810725",
+      "codeurl": "https://realms.gg/gVS8Acgoyb2tM7c"
+    },
+    "server": {
+      "motd": "Dedicated Server",
+      "levelname": "Rise to power season 7",
+      "playersonline": 6,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2535443314810725",
+      "displayName": "zerlon855",
+      "gamertag": "zerlon855",
+      "gamerScore": "0",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 20h ago: Minecraft for PlayStation®"
+    },
+    "club": {
+      "id": "3379835518056398",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 495,
+      "followersCount": 491,
+      "reportCount": 13,
+      "reportedItemsCount": 13
+    }
+  },
+  {
+    "id": 22125588,
+    "ip": "13.91.111.214",
+    "port": 30253,
+    "remoteSubscriptionId": "d8dd2afa12b449ada3867b2c55b5ac0d",
+    "ownerUUID": "2533275028088323",
+    "name": "The Last Civilization",
+    "motd": "Journey to build a strong community!",
+    "defaultPermission": "MEMBER",
+    "state": "OPEN",
+    "daysLeft": 1,
+    "expired": false,
+    "expiredTrial": false,
+    "gracePeriod": false,
+    "worldType": "NORMAL",
+    "maxPlayers": 10,
+    "clubId": 3379857921081813,
+    "member": false,
+    "invite": {
+      "code": "LX3MbGtAxxTqr98",
+      "ownerxuid": "2533275028088323",
+      "codeurl": "https://realms.gg/LX3MbGtAxxTqr98"
+    },
+    "server": {
+      "motd": "",
+      "levelname": "Survival & Creative World New",
+      "playersonline": 0,
+      "maxplayers": 10,
+      "gamemode": "Survival",
+      "gamemodeid": 1,
+      "version": "1.21.51",
+      "protocol": "766"
+    },
+    "owner": {
+      "xuid": "2533275028088323",
+      "displayName": "Ayo2Slim3y",
+      "gamertag": "Ayo2Slim3y",
+      "gamerScore": "36880",
+      "presenceState": "Offline",
+      "presenceText": "Offline"
+    },
+    "club": {
+      "id": "3379857921081813",
+      "tags": [],
+      "preferredColor": {
+        "primaryColor": "54a81b",
+        "secondaryColor": "103610",
+        "tertiaryColor": "107c10"
+      },
+      "membersCount": 13,
+      "followersCount": 14,
+      "reportCount": 0,
+      "reportedItemsCount": 0
+    }
+  }
+]
